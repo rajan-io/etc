@@ -1,3 +1,3 @@
 # etc
 
-collection of random codes or docs
+collection of random codes or docs.
